@@ -1,4 +1,4 @@
-# Wifi car with ESP8266
+# Wifi car with ESP32
 
 <p align="center">
 <img src="docs/wifi_car.png" width="300" >
